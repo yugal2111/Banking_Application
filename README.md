@@ -32,8 +32,4 @@
 <img src="images/7.png" width="270" height="535">
 <hr />
 
-### Transaction History Showing Successfull & Cancelled Transactions
-<img src="images/8.png" width="270" height="535">
-<hr />
 
-### Project Explanation
