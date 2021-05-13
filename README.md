@@ -28,8 +28,12 @@
 <img src="images/6.png" width="270" height="535">
 <hr />
 
-### Updated Amount In Users List
+### Application Icon
 <img src="images/7.png" width="270" height="535">
 <hr />
+
+### Project Explanation
+Linkedin Link : https://www.linkedin.com/posts/yugalmali_sparksfoundation-gripamay21-tsf-activity-6798295216005640192-6A1s
+
 
 
